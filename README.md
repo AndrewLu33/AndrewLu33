@@ -1,4 +1,4 @@
-![Andrew](img\Egit-0.10-github-push-refspec.png)
+![Andrew](img/Egit-0.10-github-push-refspec.png)
 
 <!-- :mortar_board: Computer Science Student at Binus University
 
